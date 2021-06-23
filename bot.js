@@ -139,4 +139,4 @@ client.on("message", msg => {
 
 ///////////////////////////////////////////////////////////////////////////////
 
-client.login(client.config.TOKEN);
+client.login("ODU1MjQwMDU3NDE2NTgxMTUw.YMvmXw.ROxaoqnlUk7C9pQE9brZRlRpzLc");
